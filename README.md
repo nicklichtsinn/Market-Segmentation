@@ -48,13 +48,13 @@ Market segmentation analysis to determine the ideal location of a franchise fast
 ## Location Reccomendation:
 
 D
-Bright lights li’l city – upper midscale younger family mix
-White picket fences – midscale middle age family mix
-Up-and-comers – upper midscale younger family mix
-Upward bound – upscale younger family mix 
-Country squires – wealthy middle age family mix
-Higher average income, population and household spend – larger client base and more opportunity
-Does not perfectly match the income level, higher earners might look for more of a dining experience than the fast casual.
+ - Bright lights li’l city – upper midscale younger family mix
+ - White picket fences – midscale middle age family mix
+ - Up-and-comers – upper midscale younger family mix
+ - Upward bound – upscale younger family mix 
+ - Country squires – wealthy middle age family mix
+ - Higher average income, population and household spend – larger client base and more opportunity
+ - Does not perfectly match the income level, higher earners might look for more of a dining experience than the fast casual.
 
 
 
